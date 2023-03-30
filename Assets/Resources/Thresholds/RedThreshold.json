@@ -1,0 +1,11 @@
+{
+  "totalCycleTime": 10,
+  "exitTime": 3,
+  "processTime": 5,
+  "changeTime": 4,
+  "oee": 10,
+  "fpy": 10,
+  "partCount": 15,
+  "countNIO": 15,
+  "productivity": 20
+}
