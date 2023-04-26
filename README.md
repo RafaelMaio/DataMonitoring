@@ -6,6 +6,7 @@ MRTK application for the Microsoft HoloLens 2 for supporting the monitorization 
 
  - Unity 2021.3.9f1
  - MRTK 2.8.2
+ - Visual Studio 2019
  
  ### Use the project:
  1. Open the project folder in a compatible Unity version.
