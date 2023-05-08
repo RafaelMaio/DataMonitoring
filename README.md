@@ -25,3 +25,11 @@ MRTK application for the Microsoft HoloLens 2 for supporting the monitorization 
 1. Select the assembly line number.
 2. Configure the stations constituing the assembly line.
 3. Perform the real-time data monitorization of the corresponding stations.
+
+## To use simulated data:
+1. Transfer the API from https://github.com/tiagodavi70/dashboard_linha_montagem .
+2. Run the server as described in the github link provided.
+3. The server and the device need to be connected to the same network.
+4. Change the IP4 address in code to the IP of the device.
+5. Build and deploy the project to the device.
+6. Select the checkbox "User Test".
